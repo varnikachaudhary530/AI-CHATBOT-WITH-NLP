@@ -139,3 +139,8 @@ How to test chatbot conversations and debug patterns
 This chatbot is rule-based and doesn’t involve machine learning, but it gave me the base knowledge needed for more advanced AI chatbots in the future using spaCy, transformers, or LLM APIs.
 
 
+##OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/9dc302bb-6d94-4017-9489-1b0b47b95b86)
+
+
